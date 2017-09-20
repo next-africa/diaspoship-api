@@ -1,0 +1,6 @@
+openapi.json
+swagger.json
+
+/.idea
+/build
+/.gradle
